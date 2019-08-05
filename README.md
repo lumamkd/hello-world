@@ -1,2 +1,3 @@
 # hello-world
 My first app on GitHub...
+I love learning and experiencing new stuff
